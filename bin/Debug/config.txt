@@ -1,0 +1,20 @@
+1	// GAME_MODE				0=manual 1=automatic
+50	// FPS_CONFIG				50fps
+80	// SCREEN_WIDTH				number columns
+28	// SCREEN_HEIGHT			number rows
+25	// PLAYERSHIP_HEIGHT		player row
+16	// PLAYERSHIP_SPEED			player speed left/right
+100	// PLAYERSHIP_DELAY			delay btwn laser shots
+4	// WAVESSHIP_START			how high waves starts
+5	// WAVESSHIP_SIZE			how many alien in wave
+20	// ALIENSHIP_COUNT			how high alien to kill
+8	// ALIENSHIP_START			how high alien starts
+4	// ALIENSHIP_DEPTH			spread alien heights
+12	// ALIENSHIP_SPEED			alien speed left/right
+4	// PLAYERLASER_COUNT		number of player lasers
+10	// PLAYERLASER_SPEED		speed of player lasers
+10	// ALIENLASER_COUNT			number of alien lasers
+10	// ALIENLASER_SPEED			speed of alien lasers
+900	// EXPLOSION_DELAY			duration of explosion
+60	// ENERGY_TIMER				how long game plays
+0	// START_SCREEN				Only used for testing!
